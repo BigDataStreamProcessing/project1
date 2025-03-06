@@ -1,0 +1,3 @@
+[submodule "project1-01-MinecraftEvents"]
+	path = project1-01-MinecraftEvents
+	url = https://github.com/BigDataStreamProcessing/project1-01-MinecraftEvents.git
