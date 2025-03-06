@@ -1,3 +1,51 @@
 [submodule "project1-01-MinecraftEvents"]
 	path = project1-01-MinecraftEvents
 	url = https://github.com/BigDataStreamProcessing/project1-01-MinecraftEvents.git
+[submodule "project1-02-JokeEvents"]
+	path = project1-02-JokeEvents
+	url = https://github.com/BigDataStreamProcessing/project1-02-JokeEvents.git
+[submodule "project1-03-TrafficEvents"]
+	path = project1-03-TrafficEvents
+	url = https://github.com/BigDataStreamProcessing/project1-03-TrafficEvents.git
+[submodule "project1-04-CarSaleEvents"]
+	path = project1-04-CarSaleEvents
+	url = https://github.com/BigDataStreamProcessing/project1-04-CarSaleEvents.git
+[submodule "project1-05-WithdrawEvents"]
+	path = project1-05-WithdrawEvents
+	url = https://github.com/BigDataStreamProcessing/project1-05-WithdrawEvents.git
+[submodule "project1-06-AzureCostEvents"]
+	path = project1-06-AzureCostEvents
+	url = https://github.com/BigDataStreamProcessing/project1-06-AzureCostEvents.git
+[submodule "project1-07-DonationEvents"]
+	path = project1-07-DonationEvents
+	url = https://github.com/BigDataStreamProcessing/project1-07-DonationEvents.git
+[submodule "project1-08-FoodEvents"]
+	path = project1-08-FoodEvents
+	url = https://github.com/BigDataStreamProcessing/project1-08-FoodEvents.git
+[submodule "project1-09-TransferEvents"]
+	path = project1-09-TransferEvents
+	url = https://github.com/BigDataStreamProcessing/project1-09-TransferEvents.git
+[submodule "project1-10-SubscriptionEvents"]
+	path = project1-10-SubscriptionEvents
+	url = https://github.com/BigDataStreamProcessing/project1-10-SubscriptionEvents.git
+[submodule "project1-11-ChessEvents"]
+	path = project1-11-ChessEvents
+	url = https://github.com/BigDataStreamProcessing/project1-11-ChessEvents.git
+[submodule "project1-12-PhotoEvents"]
+	path = project1-12-PhotoEvents
+	url = https://github.com/BigDataStreamProcessing/project1-12-PhotoEvents.git
+[submodule "project1-13-PokemonEvents"]
+	path = project1-13-PokemonEvents
+	url = https://github.com/BigDataStreamProcessing/project1-13-PokemonEvents.git
+[submodule "project1-14-FlightEvents"]
+	path = project1-14-FlightEvents
+	url = https://github.com/BigDataStreamProcessing/project1-14-FlightEvents.git
+[submodule "project1-15-WitcherEvents"]
+	path = project1-15-WitcherEvents
+	url = https://github.com/BigDataStreamProcessing/project1-15-WitcherEvents.git
+[submodule "project1-16-MountainEvents"]
+	path = project1-16-MountainEvents
+	url = https://github.com/BigDataStreamProcessing/project1-16-MountainEvents.git
+[submodule "project1-17-WarhammerEvents"]
+	path = project1-17-WarhammerEvents
+	url = https://github.com/BigDataStreamProcessing/project1-17-WarhammerEvents.git
