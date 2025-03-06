@@ -24,7 +24,7 @@ git clone https://github.com/BigDataStreamProcessing/project1-. . .
 
 8. Kilka reguł związanych z wzorcami, które należy uwzględnić w swoich rozwiązaniach:
     - W przypadku poszukiwania serii/sekwencji zdarzeń o określonych własnościach stosujemy podejście zachłanne (*greedy*)<br>
-    *przykład*: dla sekwencji zdarzeń ABBBBC i wzorcu B+ niepoprawnym rozwiązaniem będzie instancja wzorca B lub BB
+    *przykład*: dla sekwencji zdarzeń `ABBBBC` i wzorcu `B+` niepoprawnym rozwiązaniem będzie instancja wzorca `B` lub `BB`
     - W wynikach nie mogą pojawiać się instancje wzorców oparte **w całości** na podzbiorze zdarzeń z innych instancji<br>
     *przykład*: jeśli w wyniku wykrywania wzorca uzyskujemy instancję `ABCD`, to instancja `BCD` nie jest poprawna, nawet jeśli spełnia ona także reguły wzorca  
     - W wynikach mają prawo pojawiać się instancje, w których część zdarzeń została zawarta w innych instancjach wzorca<br>
