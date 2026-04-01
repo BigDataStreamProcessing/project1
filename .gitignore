@@ -1,5 +1,5 @@
 # Katalogi generowane przez IntelliJ IDEA
-# .idea/
+.idea/
 
 # Katalogi generowane przez VSC
 .metals/
@@ -24,3 +24,6 @@ Thumbs.db
 
 *.docx
 ~$*.docx
+
+# Testowe  
+project1-01-MinecraftEvents-fast/
